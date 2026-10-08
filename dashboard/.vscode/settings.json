@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\harsh\\anaconda3\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "notebook.lineNumbers": "on",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true
+    }
+}
